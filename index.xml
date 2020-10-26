@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IVPG | Peking University</title>
+    <title>IVP | Peking University</title>
     <link>https://pku-ivp.github.io/</link>
-    <description>Recent content on IVPG | Peking University</description>
+    <description>Recent content on IVP | Peking University</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Intelligent Video &amp; Perception Group, Peking University, 2020 </copyright>
     <lastBuildDate>Mon, 12 Oct 2020 16:37:31 +0200</lastBuildDate>
@@ -492,16 +492,6 @@ Intelligent Video Coding 2D/3D/Intelligent/Perceptual Video Coding Optimization,
       
       <guid>https://pku-ivp.github.io/joinus/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://pku-ivp.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pku-ivp.github.io/research/</guid>
-      <description>Modo est Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
- Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus descendere, patriisque ieiunia.</description>
     </item>
     
   </channel>
