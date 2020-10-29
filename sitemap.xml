@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/mmnet/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/mmnet/</loc>
     <lastmod>2020-10-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/</loc>
     <lastmod>2020-10-12T16:37:31+02:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/low-rate-image-compression/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/low-rate-image-compression/</loc>
     <lastmod>2020-06-12T16:37:31+02:00</lastmod>
   </url>
   
@@ -58,72 +58,77 @@
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/blind-image-quality-measurement/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/blind-image-quality-measurement/</loc>
     <lastmod>2020-04-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/multi-objective-optimization-perspective/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/</loc>
+    <lastmod>2020-04-12T16:37:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pku-ivp.github.io/publication_con/multi-objective-optimization-perspective/</loc>
     <lastmod>2019-11-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/risk-aware-airwise-rank-learning/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/risk-aware-airwise-rank-learning/</loc>
     <lastmod>2019-11-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/ssim-based-global-optimization/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/ssim-based-global-optimization/</loc>
     <lastmod>2019-08-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/unified-no-reference-quality-assessment/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/unified-no-reference-quality-assessment/</loc>
     <lastmod>2019-04-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/data-driven-rate-control/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/data-driven-rate-control/</loc>
     <lastmod>2019-03-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/sparse-bayesian-learning/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/sparse-bayesian-learning/</loc>
     <lastmod>2019-01-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/nonnegative-matrix-factorization/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/nonnegative-matrix-factorization/</loc>
     <lastmod>2018-04-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/joint-machine-learning/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/joint-machine-learning/</loc>
     <lastmod>2017-12-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/generalized-relevance-vector-machine/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/generalized-relevance-vector-machine/</loc>
     <lastmod>2017-09-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/phase-congruency-based-patch-evaluator/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/phase-congruency-based-patch-evaluator/</loc>
     <lastmod>2016-11-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/phase-congruency-based-edge-saliency-detection/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/phase-congruency-based-edge-saliency-detection/</loc>
     <lastmod>2016-10-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/bi-level-optimization/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/bi-level-optimization/</loc>
     <lastmod>2016-09-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/multiscale-phase-congruency-analysis/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/multiscale-phase-congruency-analysis/</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url>
   
@@ -228,37 +233,37 @@
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/ssim-based-game-theory/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/ssim-based-game-theory/</loc>
     <lastmod>2016-06-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/dct-coefficient-distribution/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/dct-coefficient-distribution/</loc>
     <lastmod>2016-01-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/rate-distortion-optimized-inter-view/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/rate-distortion-optimized-inter-view/</loc>
     <lastmod>2015-12-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/smooth-view-quality-oriented/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/smooth-view-quality-oriented/</loc>
     <lastmod>2015-10-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/complexity-reduction-in-multi-dictionary/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/complexity-reduction-in-multi-dictionary/</loc>
     <lastmod>2015-07-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/phase-congruency-analysis/</loc>
+    <loc>https://pku-ivp.github.io/publication_con/phase-congruency-analysis/</loc>
     <lastmod>2015-07-12T16:37:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pku-ivp.github.io/publication/low-cost-memory/</loc>
+    <loc>https://pku-ivp.github.io/publication_jou/low-cost-memory/</loc>
     <lastmod>2015-02-12T16:37:31+02:00</lastmod>
   </url>
   
@@ -285,6 +290,10 @@
   
   <url>
     <loc>https://pku-ivp.github.io/joinus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pku-ivp.github.io/patent-standardization/</loc>
   </url>
   
   <url>

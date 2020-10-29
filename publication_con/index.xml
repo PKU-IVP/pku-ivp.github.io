@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_cons on IVP | Peking University</title>
+    <link>https://pku-ivp.github.io/publication_con/</link>
+    <description>Recent content in Publication_cons on IVP | Peking University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Intelligent Video &amp; Perception Group, Peking University, 2020 </copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 16:37:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://pku-ivp.github.io/publication_con/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>
+      <link>https://pku-ivp.github.io/publication_con/mmnet/</link>
+      <pubDate>Mon, 12 Oct 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/mmnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-rate Image Compression with Super-Resolution Learning</title>
+      <link>https://pku-ivp.github.io/publication_con/low-rate-image-compression/</link>
+      <pubDate>Fri, 12 Jun 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/low-rate-image-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Optimization Perspective for Joint Consideration of Video Coding Quality</title>
+      <link>https://pku-ivp.github.io/publication_con/multi-objective-optimization-perspective/</link>
+      <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/multi-objective-optimization-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Relevance Vector Machine</title>
+      <link>https://pku-ivp.github.io/publication_con/generalized-relevance-vector-machine/</link>
+      <pubDate>Tue, 12 Sep 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/generalized-relevance-vector-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Congruency Based Edge Saliency Detection and Rate Control for Perceptual Image and Video Coding</title>
+      <link>https://pku-ivp.github.io/publication_con/phase-congruency-based-edge-saliency-detection/</link>
+      <pubDate>Wed, 12 Oct 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/phase-congruency-based-edge-saliency-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale Phase Congruency Analysis for Image Edge Visual Saliency Detection</title>
+      <link>https://pku-ivp.github.io/publication_con/multiscale-phase-congruency-analysis/</link>
+      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/multiscale-phase-congruency-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding</title>
+      <link>https://pku-ivp.github.io/publication_con/smooth-view-quality-oriented/</link>
+      <pubDate>Mon, 12 Oct 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/smooth-view-quality-oriented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity Reduction in Multi-dictionary Based Single-Image Superresolution Reconstruction via Phase Congruency</title>
+      <link>https://pku-ivp.github.io/publication_con/complexity-reduction-in-multi-dictionary/</link>
+      <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/complexity-reduction-in-multi-dictionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase Congruency Analysis of Down-sampled and Blurring Images for Foreground Extraction</title>
+      <link>https://pku-ivp.github.io/publication_con/phase-congruency-analysis/</link>
+      <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/phase-congruency-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
