@@ -5,7 +5,7 @@
     <link>https://pku-ivp.github.io/</link>
     <description>Recent content on IVP | Peking University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Intelligent Video &amp; Perception Group, Peking University, 2020 </copyright>
+    <copyright>&amp;copy; Immersive Video &amp; Perception Group, Peking University, 2020 </copyright>
     <lastBuildDate>Mon, 12 Oct 2020 16:37:31 +0200</lastBuildDate>
     
 	<atom:link href="https://pku-ivp.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -462,9 +462,9 @@ Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pku-ivp.github.io/about/</guid>
-      <description>About IVP We are the Intelligent Video &amp;amp; Perception Group, from the School of Electronic and Computer Engineering, Peking University, Shenzhen, China.
-We are focusing on the research topics of Intelligent Video Coding, Image Processing &amp;amp; Computer Vision and Machine Learning &amp;amp; Deep Learning, including advanced algorithms and optimization models, and efficient implementations of practical Intelligent Systems.
-Intelligent Video Coding 2D/3D/Intelligent/Perceptual Video Coding Optimization, Immersive Media and Virtual Reality (Panorama/Light Field/Point Cloud), Multimedia Streaming and Communication</description>
+      <description>About IVP We are the Immersive Video &amp;amp; Perception Group, from the School of Electronic and Computer Engineering, Peking University, Shenzhen, China.
+We are focusing on the research topics of Compression, Processing and Analysis for Immersive Media (Point Cloud/Light Field/Panorama/3D), and Related Machine Learning &amp;amp; Deep Learning &amp;amp; Optimization Methods (From Theory to Practice).
+Intelligent Image/Video Coding 2D/3D/Intelligent/Perceptual Image/Video Coding Optimization, Immersive Media and Virtual Reality (Panorama/Light Field/Point Cloud), Multimedia Streaming and Communication</description>
     </item>
     
     <item>
