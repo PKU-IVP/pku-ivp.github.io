@@ -6,10 +6,46 @@
     <description>Recent content in Publication_jous on IVP | Peking University</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Immersive Video Perception Group, Peking University, 2020 </copyright>
-    <lastBuildDate>Sun, 12 Apr 2020 16:37:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 16:37:31 +0200</lastBuildDate>
     
 	<atom:link href="https://pku-ivp.github.io/publication_jou/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</title>
+      <link>https://pku-ivp.github.io/publication_jou/unified-information-fusion/</link>
+      <pubDate>Sat, 15 May 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/unified-information-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</title>
+      <link>https://pku-ivp.github.io/publication_jou/cross-modality-fusion/</link>
+      <pubDate>Thu, 13 May 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/cross-modality-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast View Synthesis Implementation Method for Light Field Applications</title>
+      <link>https://pku-ivp.github.io/publication_jou/fast-view-synthesis/</link>
+      <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/fast-view-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</title>
+      <link>https://pku-ivp.github.io/publication_jou/consistent-quality-oriented-rate-control/</link>
+      <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/consistent-quality-oriented-rate-control/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blind Image Quality Measurement by Exploiting High Order Statistics with Deep Dictionary Encoding Network</title>

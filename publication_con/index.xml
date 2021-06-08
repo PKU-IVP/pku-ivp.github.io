@@ -6,10 +6,46 @@
     <description>Recent content in Publication_cons on IVP | Peking University</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Immersive Video Perception Group, Peking University, 2020 </copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 16:37:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 16:37:31 +0200</lastBuildDate>
     
 	<atom:link href="https://pku-ivp.github.io/publication_con/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</title>
+      <link>https://pku-ivp.github.io/publication_con/deep-image-compression/</link>
+      <pubDate>Sun, 11 Apr 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/deep-image-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications</title>
+      <link>https://pku-ivp.github.io/publication_con/dynamic-computational-resource-allocation/</link>
+      <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/dynamic-computational-resource-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-Reference Deep Quality Assessment of Compressed Light Field Images</title>
+      <link>https://pku-ivp.github.io/publication_con/no-reference-deep-quality-assessment/</link>
+      <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/no-reference-deep-quality-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</title>
+      <link>https://pku-ivp.github.io/publication_con/efficient-fast-algorithm/</link>
+      <pubDate>Sat, 30 Jan 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/efficient-fast-algorithm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>

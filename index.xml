@@ -6,10 +6,165 @@
     <description>Recent content on IVP | Peking University</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Immersive Video Perception Group, Peking University, 2020 </copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 16:37:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jun 2021 16:50:58 +0200</lastBuildDate>
     
 	<atom:link href="https://pku-ivp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Editorship</title>
+      <link>https://pku-ivp.github.io/post/2021-06-05/</link>
+      <pubDate>Sat, 05 Jun 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-06-05/</guid>
+      <description>Dr. Wei Gao has been appointed as Associate Editor for Neural Processing Letters (NEPL, CCF recommended journal).</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-05-15/</link>
+      <pubDate>Sat, 15 May 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-05-15/</guid>
+      <description>One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</description>
+    </item>
+    
+    <item>
+      <title>Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</title>
+      <link>https://pku-ivp.github.io/publication_jou/unified-information-fusion/</link>
+      <pubDate>Sat, 15 May 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/unified-information-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-05-13/</link>
+      <pubDate>Thu, 13 May 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-05-13/</guid>
+      <description>One paper has been accepted to IEEE Transactions on Multimedia (TMM). View the detail: Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</description>
+    </item>
+    
+    <item>
+      <title>Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</title>
+      <link>https://pku-ivp.github.io/publication_jou/cross-modality-fusion/</link>
+      <pubDate>Thu, 13 May 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/cross-modality-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-05-06/</link>
+      <pubDate>Thu, 06 May 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-05-06/</guid>
+      <description>One paper has been accepted to IEEE Transactions on Industrial Informatics (TII). View the detail: Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-04-11/</link>
+      <pubDate>Sun, 11 Apr 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-04-11/</guid>
+      <description>One paper has been accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2021. View the detail: Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</description>
+    </item>
+    
+    <item>
+      <title>Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</title>
+      <link>https://pku-ivp.github.io/publication_con/deep-image-compression/</link>
+      <pubDate>Sun, 11 Apr 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/deep-image-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-03-29/</link>
+      <pubDate>Mon, 29 Mar 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-03-29/</guid>
+      <description>One paper has been accepted to ACM Transactions on Multimedia Computing Communications and Applications (TOMM). View the detail: A Fast View Synthesis Implementation Method for Light Field Applications</description>
+    </item>
+    
+    <item>
+      <title>A Fast View Synthesis Implementation Method for Light Field Applications</title>
+      <link>https://pku-ivp.github.io/publication_jou/fast-view-synthesis/</link>
+      <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/fast-view-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</title>
+      <link>https://pku-ivp.github.io/publication_jou/consistent-quality-oriented-rate-control/</link>
+      <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_jou/consistent-quality-oriented-rate-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-03-06/</link>
+      <pubDate>Sat, 06 Mar 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-03-06/</guid>
+      <description>Two papers have been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2021. View the detail:
+ Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications No-Reference Deep Quality Assessment of Compressed Light Field Images  </description>
+    </item>
+    
+    <item>
+      <title>Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications</title>
+      <link>https://pku-ivp.github.io/publication_con/dynamic-computational-resource-allocation/</link>
+      <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/dynamic-computational-resource-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-Reference Deep Quality Assessment of Compressed Light Field Images</title>
+      <link>https://pku-ivp.github.io/publication_con/no-reference-deep-quality-assessment/</link>
+      <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/no-reference-deep-quality-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>https://pku-ivp.github.io/post/2021-02-15/</link>
+      <pubDate>Mon, 15 Feb 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-02-15/</guid>
+      <description>We are organizing a workshop at ICME 2021 (First International Workshop on Quality of Experience in Interactive Multimedia, https://2021.ieeeicme.org/conf_workshops). The submission deadline is March 13, 2021. Welcome to submit papers!</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-01-30/</link>
+      <pubDate>Sat, 30 Jan 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-01-30/</guid>
+      <description>A paper authored by Zhanyuan Cai, Wei Gao, et.al. is accepted to IEEE International Symposium on Circuits and Systems (ISCAS) 2021.
+View the detail: Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</description>
+    </item>
+    
+    <item>
+      <title>Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</title>
+      <link>https://pku-ivp.github.io/publication_con/efficient-fast-algorithm/</link>
+      <pubDate>Sat, 30 Jan 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/publication_con/efficient-fast-algorithm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>
@@ -307,7 +462,7 @@ View the detail: Low-rate Image Compression with Super-Resolution Learning</desc
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
       <guid>https://pku-ivp.github.io/member/gaowei/</guid>
-      <description>Dr. Wei Gao is currently an Assistant Professor (Ph.D. Supervisor) with the School of Electronic and Computer Engineering, Peking University (PKU), Shenzhen, China. He received the Ph.D. degree in Computer Science with the Department of Computer Science, City University of Hong Kong (CityU), Kowloon, Hong Kong. He was a Camera ISP Engineer with OmniVision Technologies (OVTI), Shanghai, China. Before that, he obtained the Master degree in Pattern Recognition and Intelligent Systems with the Institute for Pattern Recognition and Artificial Intelligence (National Key Laboratory of Science and Technology on Multi-spectral Information Processing), Huazhong University of Science and Technology (HUST), Wuhan, China.</description>
+      <description>Dr. Wei Gao is currently an Assistant Professor (Ph.D. Supervisor) with the School of Electronic and Computer Engineering, Peking University (PKU), Shenzhen, China. He received the Ph.D. degree in Computer Science with the Department of Computer Science, City University of Hong Kong (CityU), Kowloon, Hong Kong. He was a Camera ISP Engineer with OmniVision Technologies (OVTI), Shanghai, China. He was a Visiting Scholar at the Electrical Engineering Department, University of California, Los Angeles (UCLA), CA, USA.</description>
     </item>
     
     <item>
@@ -463,8 +618,8 @@ Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non.
       
       <guid>https://pku-ivp.github.io/about/</guid>
       <description>About IVP We are the Immersive Video Perception Group, from the School of Electronic and Computer Engineering, Peking University, Shenzhen, China.
-We are focusing on the research topics of Compression, Processing and Analysis for Immersive Media (Point Cloud/Light Field/Panorama/3D), and Related Machine Learning &amp;amp; Deep Learning &amp;amp; Optimization Methods (From Theory to Practice).
-Intelligent Image/Video Coding 2D/3D/Intelligent/Perceptual Image/Video Coding Optimization, Immersive Media and Virtual Reality (Panorama/Light Field/Point Cloud), Multimedia Streaming and Communication</description>
+We are focusing on the research topics of Perception, Compression, Processing and Analysis for Immersive Media (Point Cloud/Light Field/Panorama/3D), and Related Machine Learning &amp;amp; Deep Learning &amp;amp; Optimization Methods (From Theory to Practice).
+Intelligent Image/Video/Point Cloud Coding 2D/3D/Intelligent/Perceptual Image/Video/Point Cloud Coding Optimization, Immersive Media/Virtual Reality/Augumented Reality (Point Cloud/Light Field/Panorama/3D), Multimedia Streaming and Communication</description>
     </item>
     
     <item>

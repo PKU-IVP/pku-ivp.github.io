@@ -6,10 +6,93 @@
     <description>Recent content in Posts on IVP | Peking University</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Immersive Video Perception Group, Peking University, 2020 </copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 15:50:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jun 2021 16:50:58 +0200</lastBuildDate>
     
 	<atom:link href="https://pku-ivp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Editorship</title>
+      <link>https://pku-ivp.github.io/post/2021-06-05/</link>
+      <pubDate>Sat, 05 Jun 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-06-05/</guid>
+      <description>Dr. Wei Gao has been appointed as Associate Editor for Neural Processing Letters (NEPL, CCF recommended journal).</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-05-15/</link>
+      <pubDate>Sat, 15 May 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-05-15/</guid>
+      <description>One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-05-13/</link>
+      <pubDate>Thu, 13 May 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-05-13/</guid>
+      <description>One paper has been accepted to IEEE Transactions on Multimedia (TMM). View the detail: Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-05-06/</link>
+      <pubDate>Thu, 06 May 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-05-06/</guid>
+      <description>One paper has been accepted to IEEE Transactions on Industrial Informatics (TII). View the detail: Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-04-11/</link>
+      <pubDate>Sun, 11 Apr 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-04-11/</guid>
+      <description>One paper has been accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2021. View the detail: Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-03-29/</link>
+      <pubDate>Mon, 29 Mar 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-03-29/</guid>
+      <description>One paper has been accepted to ACM Transactions on Multimedia Computing Communications and Applications (TOMM). View the detail: A Fast View Synthesis Implementation Method for Light Field Applications</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-03-06/</link>
+      <pubDate>Sat, 06 Mar 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-03-06/</guid>
+      <description>Two papers have been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2021. View the detail:
+ Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications No-Reference Deep Quality Assessment of Compressed Light Field Images  </description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>https://pku-ivp.github.io/post/2021-02-15/</link>
+      <pubDate>Mon, 15 Feb 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-02-15/</guid>
+      <description>We are organizing a workshop at ICME 2021 (First International Workshop on Quality of Experience in Interactive Multimedia, https://2021.ieeeicme.org/conf_workshops). The submission deadline is March 13, 2021. Welcome to submit papers!</description>
+    </item>
+    
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pku-ivp.github.io/post/2021-01-30/</link>
+      <pubDate>Sat, 30 Jan 2021 16:50:58 +0200</pubDate>
+      
+      <guid>https://pku-ivp.github.io/post/2021-01-30/</guid>
+      <description>A paper authored by Zhanyuan Cai, Wei Gao, et.al. is accepted to IEEE International Symposium on Circuits and Systems (ISCAS) 2021.
+View the detail: Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</description>
+    </item>
     
     <item>
       <title>Team Building Activity</title>
